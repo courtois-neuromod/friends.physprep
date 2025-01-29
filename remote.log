@@ -1,0 +1,1 @@
+3489c598-a68f-47cc-a45a-88db274eee4c autoenable=true bucket=cneuromod.friends.physprep chunk=1GiB datacenter=US encryption=none host=s3.unf-montreal.ca name=s3.cneuromod.friends.physprep port=443 protocol=https requeststyle=path storageclass=STANDARD type=S3 timestamp=1738171978.765630931s
