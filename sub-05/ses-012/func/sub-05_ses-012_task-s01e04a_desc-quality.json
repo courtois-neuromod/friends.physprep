@@ -11,7 +11,7 @@
     },
     "EDA": {
         "Description": "continuous electrodermal measurement",
-        "PercentageValid": 0.91,
+        "PercentageValid": 1.0,
         "QualityAssessment": "Pass"
     },
     "RSP": {
